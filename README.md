@@ -10,6 +10,7 @@
 - Fully responsive design for seamless use across devices.
 
 ## 🛠️ Built With
+- Python
 - React + TypeScript
 - Google Maps, Directions & Places APIs
 - OpenWeatherMap
